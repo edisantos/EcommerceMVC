@@ -1,0 +1,6 @@
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\bin\Debug\TutorialEcommerce.Helpers.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\bin\Debug\TutorialEcommerce.Helpers.pdb
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\obj\Debug\TutorialEcommerce.Helpers.csprojAssemblyReference.cache
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\obj\Debug\TutorialEcommerce.Helpers.csproj.CoreCompileInputs.cache
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\obj\Debug\TutorialEcommerce.Helpers.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\obj\Debug\TutorialEcommerce.Helpers.pdb

@@ -1,0 +1,5 @@
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Repositories.Tests\bin\Debug\TutorialEcommerce.Repositories.Tests.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Repositories.Tests\bin\Debug\TutorialEcommerce.Repositories.Tests.pdb
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Repositories.Tests\obj\Debug\TutorialEcommerce.Repositories.Tests.csproj.CoreCompileInputs.cache
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Repositories.Tests\obj\Debug\TutorialEcommerce.Repositories.Tests.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Repositories.Tests\obj\Debug\TutorialEcommerce.Repositories.Tests.pdb

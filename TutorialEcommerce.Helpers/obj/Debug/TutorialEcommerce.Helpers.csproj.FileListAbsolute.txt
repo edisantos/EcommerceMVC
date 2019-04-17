@@ -4,3 +4,6 @@ F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerc
 F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\obj\Debug\TutorialEcommerce.Helpers.csproj.CoreCompileInputs.cache
 F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\obj\Debug\TutorialEcommerce.Helpers.dll
 F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\obj\Debug\TutorialEcommerce.Helpers.pdb
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helpers\obj\Debug\TutorialEcommerce.Helpers.csproj.CopyComplete

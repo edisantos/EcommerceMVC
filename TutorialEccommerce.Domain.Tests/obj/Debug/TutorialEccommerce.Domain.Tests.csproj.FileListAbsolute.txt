@@ -1,0 +1,9 @@
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEccommerce.Domain.Tests\bin\Debug\TutorialEccommerce.Domain.Tests.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEccommerce.Domain.Tests\bin\Debug\TutorialEccommerce.Domain.Tests.pdb
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEccommerce.Domain.Tests\bin\Debug\TutorialEcommerce.Helpers.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEccommerce.Domain.Tests\bin\Debug\TutorialEcommerce.Helpers.pdb
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEccommerce.Domain.Tests\obj\Debug\TutorialEccommerce.Domain.Tests.csprojAssemblyReference.cache
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEccommerce.Domain.Tests\obj\Debug\TutorialEccommerce.Domain.Tests.csproj.CoreCompileInputs.cache
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEccommerce.Domain.Tests\obj\Debug\TutorialEccommerce.Domain.Tests.csproj.CopyComplete
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEccommerce.Domain.Tests\obj\Debug\TutorialEccommerce.Domain.Tests.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEccommerce.Domain.Tests\obj\Debug\TutorialEccommerce.Domain.Tests.pdb

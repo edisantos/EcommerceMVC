@@ -1,0 +1,11 @@
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\bin\Debug\TutorialEcommerce.Helps.Tests.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\bin\Debug\TutorialEcommerce.Helps.Tests.pdb
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\bin\Debug\TutorialEcommerce.Helpers.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\bin\Debug\TutorialEcommerce.Helpers.pdb
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\obj\Debug\TutorialEcommerce.Helps.Tests.csprojAssemblyReference.cache
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\obj\Debug\TutorialEcommerce.Helps.Tests.csproj.CoreCompileInputs.cache
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\obj\Debug\TutorialEcommerce.Helps.Tests.csproj.CopyComplete
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\obj\Debug\TutorialEcommerce.Helps.Tests.dll
+F:\Estudos MVC\ProjetosDDD\TtutorialEcommerce\TutorialEcommerce\TutorialEcommerce.Helps.Tests\obj\Debug\TutorialEcommerce.Helps.Tests.pdb
